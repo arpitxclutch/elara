@@ -12,7 +12,7 @@ const products = [
   { id: 8, name: "Vintage Cocktail Ring", price: "INR 65,000", category: "Rings", image: "https://images.unsplash.com/photo-1573408301185-9146fe634ad0?q=80&w=800&auto=format&fit=crop" },
   { id: 9, name: "Hoop Earrings", price: "INR 25,000", category: "Earrings", image: "https://images.unsplash.com/photo-1635982292733-d9788e388149?q=80&w=800&auto=format&fit=crop" },
   { id: 10, name: "Diamond Bangle", price: "INR 95,000", category: "Bracelets", image: "https://images.unsplash.com/photo-1596944924616-7b38e7cfdf83?q=80&w=800&auto=format&fit=crop" },
-  { id: 11, name: "Pearl & Diamond Drop", price: "INR 38,000", category: "Earrings", image: "https://images.unsplash.com/photo-1602751584146-dc8bfc27d102?q=80&w=800&auto=format&fit=crop" },
+  { id: 11, name: "Pearl & Diamond Drop", price: "INR 38,000", category: "Earrings", image: "https://images.unsplash.com/photo-1611591437281-460bfbe1220a?q=80&w=1170&auto=format&fit=crop" },
   { id: 12, name: "Three-Stone Ring", price: "INR 88,000", category: "Rings", image: "https://images.unsplash.com/photo-1629224316810-9d8805b95e76?q=80&w=800&auto=format&fit=crop" },
   { id: 13, name: "Lariat Necklace", price: "INR 45,000", category: "Necklaces", image: "https://images.unsplash.com/photo-1610633325079-b15118b1215c?q=80&w=800&auto=format&fit=crop" },
   { id: 14, name: "Cuff Bracelet", price: "INR 55,000", category: "Bracelets", image: "https://images.unsplash.com/photo-1574245345437-14e300d1e57a?q=80&w=800&auto=format&fit=crop" },
